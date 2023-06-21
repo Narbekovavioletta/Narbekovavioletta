@@ -1,6 +1,6 @@
 # Hi there, I'm Violetta Narbekova👋 
 
-## I'm a young data analysis
+## I'm a young data analyst
 
 * 🔬I’m currently learning statistics
 * 🤹I'm coding practice in [LeetCode](https://leetcode.com/Narbekovavioletta/)
