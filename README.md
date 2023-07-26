@@ -3,7 +3,7 @@
 ## I'm a young data analyst
 
 * 🔬I’m currently learning statistics
-* 🤹I'm coding practice in [LeetCode](https://leetcode.com/Narbekovavioletta/)
+* 🤹I'm coding practice in [LeetCode](https://leetcode.com/Narbekovavioletta/), [Hakerrank](https://www.hackerrank.com/Narbekovavio?hr_r=1)
 * 📫How to reach me: [t.me/Narbekovavioletta](https://t.me/Narbekovavioletta)
 * 🌱About me: I'm a Pescetarian
 
